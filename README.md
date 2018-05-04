@@ -15,3 +15,4 @@ I created this repository to store all my contributions in OpenSource projects a
 
 ![logotype1](https://user-images.githubusercontent.com/34600369/39625275-a051c804-4f94-11e8-8d18-eefe0685adf3.png)
 
+![algoritmo4](https://user-images.githubusercontent.com/34600369/39643336-5cb6326e-4fcc-11e8-905b-673464bfa5c5.png)
